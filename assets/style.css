@@ -1,0 +1,15 @@
+#box{
+    height:100px;
+    width: 100px;
+    border-radius: 20px;
+    font-size: 3.5rem;
+    padding-bottom: 15px;
+    background-color: rgb(73, 64, 64);
+    color: white;
+    border: none;
+}
+
+#reset-btn{
+    font-size: 20px;
+    border-radius: 15px;
+}
